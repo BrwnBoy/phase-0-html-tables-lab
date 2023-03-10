@@ -83,7 +83,7 @@ the third, what the guest is 'Bringing' to the party.
 These headers need to go in the first row, so that may look something like:
 
 ```html
-<table>
+<table>1
   <tr>
     <th>Name</th>
     <th>Phone Number</th>
